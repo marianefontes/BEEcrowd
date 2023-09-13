@@ -1,2 +1,5 @@
 # BEEcrowd
-Resolução de exercícios realizados durante o curso de ciência da computação na CESAR School ;)
+
+O Becrowd é uma plataforma que conta com diversos exercícios para ajudar estudantes com programação focada em tópicos específicos.
+
+Aqui estão alguma resolução de exercícios realizados durante os meus estudos para ciência da computação ;)
